@@ -1,9 +1,7 @@
-import { Text } from "react-native";
+import { Text } from 'react-native';
 
-function App() {
+export default function App() {
   return (
-    <Text>To do</Text>
+      <Text>To Do</Text>
   );
 }
-
-export default App;
